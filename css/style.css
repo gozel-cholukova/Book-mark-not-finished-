@@ -1,0 +1,23 @@
+body {
+  padding-top: 3.5rem;
+  
+}
+
+.container {
+  text-align: center;
+  margin: 0 3.5rem 0 3.5rem;
+}
+
+.form-control {
+  margin: 0 4rem 0 4rem;
+  
+}
+
+.label {
+  font-size: 25px;
+  font-style: 700;
+}
+
+.btn {
+  font-size: 25px;
+}
